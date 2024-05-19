@@ -1,3 +1,3 @@
-module github.com/hollgett/utils/v2.git
+module github.com/hollgett/utils/v3.git
 
 go 1.20
